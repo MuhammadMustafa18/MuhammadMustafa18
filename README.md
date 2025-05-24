@@ -16,7 +16,6 @@ I'm a passionate developer, lifelong learner, and open-source enthusiast who lov
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- 📝 **Blogger & Writer**: I enjoy sharing knowledge and writing technical articles.
 
 ---
 
