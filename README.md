@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Muhammad Mustafa!
+# Hi, I'm Muhammad Mustafa!
 
 Welcome to my GitHub profile!  
 I'm a passionate developer, lifelong learner, and open-source enthusiast who loves building impactful software and exploring new technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 **Full Stack Developer**: Experienced in both front-end and back-end development.
 - 🌱 **Currently Learning**: ML, AI tools and libraries, and advanced JavaScript.
@@ -19,7 +19,7 @@ I'm a passionate developer, lifelong learner, and open-source enthusiast who lov
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMustafa18&show_icons=true&theme=radical" alt="Muhammad Mustafa's GitHub stats" />
