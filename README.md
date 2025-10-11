@@ -19,14 +19,6 @@ I'm a passionate developer, lifelong learner, and open-source enthusiast who lov
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMustafa18&show_icons=true&theme=radical" alt="Muhammad Mustafa's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMustafa18&theme=radical"/>
-</p>
-
 ---
 
 Thanks for stopping by! ⭐️  
