@@ -16,7 +16,7 @@
 |---|---|---|---|
 | 🏆 **Winner** | Hackathon | SMEC, Sir Syed University | Feb 2026 |
 | 🏆 **Winner** | App Dev Hackathon | AIC , NED University | Mar 2026 |
-| 🏆 **Winner** | Hackathon | DevDay Karachi | Apr 2026 |
+| 🏆 **Winner** | Hackathon | DevDay FAST NUCES, Karachi | Apr 2026 |
 
 I build **AI-native devtools, coding agents, open-source infrastructure, and creative engineering tools.**
 
