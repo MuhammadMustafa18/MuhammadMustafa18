@@ -11,6 +11,13 @@
   </tr>
 </table>
 
+
+| Placement | Competition | Host | Date |
+|---|---|---|---|
+| 🏆 **Winner** | Hackathon | SMEC, Sir Syed University | Feb 2026 |
+| 🏆 **Winner** | App Dev Hackathon | AIC , NED University | Mar 2026 |
+| 🏆 **Winner** | Hackathon | DevDay Karachi | Apr 2026 |
+
 I build **AI-native devtools, coding agents, open-source infrastructure, and creative engineering tools.**
 
 ▸ Creator of **[Redbuskhi](https://www.redbuskhi.vercel.app/)** · app launched · 1k+ visitors/month · 10k+ page views<br/>
